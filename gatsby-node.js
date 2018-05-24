@@ -2,8 +2,8 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
-exports.createRecipes = ({ boundActionCreators, graphql }) => {
-  const { createRecipe } = boundActionCreators
+exports.createPages = ({ boundActionCreators, graphql }) => {
+  const { createPage } = boundActionCreators
 
   return graphql(`
     {
