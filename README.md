@@ -1,1 +1,1 @@
-# [mat.morland-sandvik](https://mat.morland-sandvik.com)
+# [oppskrifter.morland-sandvik.com](https://oppskrifter.morland-sandvik.com)
