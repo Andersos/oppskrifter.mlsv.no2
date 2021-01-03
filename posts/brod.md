@@ -1,6 +1,8 @@
 ---
 ingredients:
   - mel
+  - gjør
+  - olje
 bilde: img/bread.jpg
 layout: layouts/post.njk
 title: Hjemmebakt brød
