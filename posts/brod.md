@@ -1,13 +1,16 @@
 ---
+ingredients:
+  - mel
+bilde: img/bread.jpg
+layout: layouts/post.njk
 title: Hjemmebakt brød
 date: 2018-05-24
+update: 2021-01-03T16:55:31.092Z
+thumbnail: /img/bread.jpg
 tags:
   - another-tag
   - baking
-ingredients:
-  - mel
-layout: layouts/post.njk
-bilde: img/bread.jpg
+rating: 6
 ---
 
 Brød
