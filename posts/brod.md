@@ -14,9 +14,10 @@ tags:
   - baking
 rating: 6
 ---
-
 Brød
 
 Oppskrift
 
 500g mel 1ts salt 400ml vann 1ts tørrgjær Litt olje for å smøre formen.
+
+![Brød](/img/bread.jpg "Brød")
