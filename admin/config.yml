@@ -3,7 +3,6 @@ backend:
   branch: master
 media_folder: "img"
 public_folder: "/img/"
-publish_mode: editorial_workflow
 collections:
   - name: "oppskrift" # Used in routes, e.g., /admin/collections/blog
     label: "Oppskrift" # Used in the UI
