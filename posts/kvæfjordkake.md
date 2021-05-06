@@ -4,6 +4,8 @@ title: Kvæfjordkake
 date: 2021-05-06T13:58:01.918Z
 update: 2021-05-06T13:58:01.935Z
 thumbnail: /img/kvæfjordkake.jpg
+tags:
+  - dessert
 ---
 Ingredienser:\
 \
