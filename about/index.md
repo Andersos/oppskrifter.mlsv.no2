@@ -3,8 +3,8 @@ layout: layouts/post.njk
 title: Om
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Om
   order: 3
 ---
 
-Her kommer det noe tekst om
+Her kommer det noe tekst om oppskriftene
