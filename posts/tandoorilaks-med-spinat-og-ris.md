@@ -7,6 +7,15 @@ tags:
   - laks
 ingredients:
   - ris
+  - hvitløk
+  - smør
+  - babyspinat
+  - lime
+  - salt
+  - pepper
+  - laks
+  - tandoori
+  - agurk
 ---
 1. Kok  risen
 
