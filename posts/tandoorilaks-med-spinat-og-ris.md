@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Tandoorilaks med spinat og ris
 date: 2021-05-06T13:39:56.043Z
 update: 2021-05-06T13:39:56.065Z
+thumbnail: /img/11381141-9ea4-48aa-b02a-f5e98d401fb9.jpg
 tags:
   - laks
 ingredients:
