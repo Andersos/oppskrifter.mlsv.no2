@@ -1,15 +1,17 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Home
+  key: Hjem
   order: 1
 ---
 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+{% set maxPosts = collections.posts.length | min(20) %}
+<h1>Siste 20 oppskrifter</h1>
 
-{% set postslist = collections.posts | head(-3) %}
+{% set postslist = collections.posts | head(-20) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<div>
+<p>Flere kan finnes i <a href="{{ '/posts/' | url }}">akrivet</a>.</p>
+</div>
