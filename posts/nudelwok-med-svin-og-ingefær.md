@@ -6,6 +6,7 @@ update: 2021-05-18T15:04:57.091Z
 thumbnail: /img/nudelwok-thumbnail.jpg
 tags:
   - svin
+  - middag
 ingredients:
   - sesamfrø
 tid: 20
