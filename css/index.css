@@ -10,9 +10,7 @@
   box-sizing: border-box;
 }
 html {
-  padding: 0;
-  margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: "Neue Helvetica", system-ui, sans-serif;
   color: var(--darktext);
   background-color: var(--light);
   font-size: 10px;
@@ -20,6 +18,7 @@ html {
 }
 body {
   font-size: 1.8rem;
+  margin: 0;
 }
 img {
   max-width: 100%;
@@ -119,7 +118,7 @@ ul {
 .food-tag {
   text-transform: capitalize;
   font-size: 1.4rem;
-  padding: 1rem;
+  padding: 1rem 1rem 0.8rem 1rem;
   margin-right: 1rem;
   background-color: var(--red);
   color: var(--light);
