@@ -5,3 +5,9 @@ permalink: /oversikt/
 
 <h1>Middagsoversikt</h1>
 
+<ul>
+{% for dinnerId in dinners %}
+{% set dinner = collections.posts | getbyid(dinnerId) %}
+<li class="dinnerlist-item"><a href={{dinner.url}}>{{dinner.data.title}} {% if food.data.tid %}({{dinner.data.tid}} min){% endif %}</a></li>
+{% endfor %}
+</ul>

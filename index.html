@@ -8,36 +8,4 @@ layout: layouts/base.njk
   <a href="{{ tagUrl | url }}" class="food-tag">{{ tag }}</a>
   {% endfor %} {% set foodlist = collections.posts | head(-20) %}
 </div>
-<ul class="foodlist">
-  {% for food in foodlist | reverse %}
-  <li class="foodlist-item">
-    <a href="{{ food.url | url }}" class="foodlist-item-link">
-      {% if food.data.thumbnail %}<img
-        class="foodlist-item-img"
-        src="{{
-      food.data.thumbnail}}"
-        alt="{{food.data.title}}"
-      />
-      {% else %}<img
-        class="foodlist-item-img"
-        src="/img/fallback.png"
-        alt="Mangler bilde"
-      />
-      {% endif %} {% if food.data.title %}
-      <p class="foodlist-item-title">{{ food.data.title }}</p>
-      {% endif %}
-    </a>
-    <div class="foodlist-subtitle">
-      {% if food.data.tid %}
-      <p class="foodlist-item-time">{{ food.data.tid }} min</p>
-      {% else %}
-      <p class="foodlist-item-time">Ukjent tid</p>
-      {% endif %} {% for tag in food.data.tags %} {%- if
-      collections.tagList.indexOf(tag) != -1 -%} {% set tagUrl %}/tags/{{ tag
-      }}/{% endset %}
-      <a href="{{ tagUrl | url }}" class="food-tag">{{ tag }}</a>
-      {%- endif -%} {% endfor %}
-    </div>
-  </li>
-  {% endfor %}
-</ul>
+{% include "foodlist.njk" %}

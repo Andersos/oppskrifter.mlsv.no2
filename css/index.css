@@ -124,3 +124,8 @@ h2 {
   border-radius: 0.25rem;
   text-decoration: none;
 }
+
+.dinnerlist-item {
+  font-size: 20px;
+  margin-top: 2rem;
+}
