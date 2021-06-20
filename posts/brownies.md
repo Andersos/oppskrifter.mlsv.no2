@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Brownies
 date: 2021-05-06T13:59:34.804Z
 update: 2021-05-06T13:59:34.822Z
+tags:
+  - baking
 ---
 OPPSKRIFT: ENKEL OG SUPERGOD BROWNIES\
 Denne browniesen blir sprø i kantene og seig og nesten litt klissete i midten, akkurat slik jeg synes den bør være. Jeg skal selvfølgelig teste ut flere brownies-oppskrifter etterhvert, men frem til nå er dette min favoritt. Den var fast nok til å kutte i fine firkantede stykker og klissete nok til å være like saftig og god som en brownies bør være. Enklere kake skal du også lete lenge etter, alt du trenger er en bolle, håndvisp, vekt, kjele, målebeger og et par kjeler. Ikke noen elektrisk maskin som skal gjøre jobben her. Ofte bør man røre lenge og vel for å få den perfekte eggedosis eller luftig og porøst smør, men her gjelds det å røre så lite som mulig for å få best mulig resultat. Lykke til!
