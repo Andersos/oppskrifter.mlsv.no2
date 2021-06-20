@@ -104,6 +104,9 @@ h2 {
   display: flex;
   flex-wrap: wrap;
 }
+.taglist .food-tag {
+  margin-bottom: 0.5rem;
+}
 .food-tag {
   text-transform: capitalize;
   font-size: 1.4rem;
