@@ -129,3 +129,9 @@ h2 {
   font-size: 20px;
   margin-top: 2rem;
 }
+
+.article-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}

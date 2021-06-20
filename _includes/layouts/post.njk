@@ -1,14 +1,12 @@
 ---
 layout: layouts/base.njk
 ---
+<article>
+{% if thumbnail %}<img class="article-img" src={{thumbnail}} alt={{title}} />{% else %}<img class="article-img" src="/img/fallback.png" alt="Mangler bilde"/>{% endif %}
 <h1>{{ title }}</h1>
-
+<h2>Ingredienser</h2>
+{% for ing in ingredients %}
+{{ ing }}
+{% endfor %}
 {{ content | safe }}
-
-<hr>
-<ul>
-  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-</ul>
+</article>
