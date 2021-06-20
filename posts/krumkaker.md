@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Krumkaker
 date: 2021-05-06T13:56:56.712Z
 update: 2021-05-06T13:56:56.730Z
+tags:
+  - baking
 ---
 Dette er oldemor sin oppskrift for Krumkaker.
 
