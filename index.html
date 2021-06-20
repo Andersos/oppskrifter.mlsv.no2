@@ -6,6 +6,6 @@ layout: layouts/base.njk
   {% for tag in collections.tagList %} {% set tagUrl %}/tags/{{ tag }}/{% endset
   %}
   <a href="{{ tagUrl | url }}" class="food-tag">{{ tag }}</a>
-  {% endfor %} {% set foodlist = collections.posts | head(-20) %}
+  {% endfor %} {% set foodlist = collections.posts %}
 </div>
 {% include "foodlist.njk" %}
