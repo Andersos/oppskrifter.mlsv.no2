@@ -6,22 +6,19 @@
     <title>Oppskrifter</title>
     <meta name="description" content="Our collection of recipes">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <header>
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      <li class="nav-item"><a href="/admin">Admin</a></li>
-
+        <li class="nav-item"><a href="/">Hjem</a></li>
+        <li class="nav-item {{ 'nav-item-active' if '/oversikt' in page.url }}"><a href="/oversikt">Oversikt</a></li>
+        <li class="nav-item {{ 'nav-item-active' if '/oppskrifter' in page.url }}"><a href="/oppskrifter">Oppskrifter</a></li>
+       <li class="nav-item"><a href="/admin">Admin</a></li>
       </ul>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main>
       {{ content | safe }}
     </main>
 

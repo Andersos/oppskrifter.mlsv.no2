@@ -3,12 +3,13 @@ layout: layouts/post.njk
 title: Nudelwok med svin og ingefær
 date: 2021-05-18T15:04:57.066Z
 update: 2021-05-18T15:04:57.091Z
-thumbnail: /img/img-3561.jpg
+thumbnail: /img/nudelwok-thumbnail.jpg
 tags:
   - svin
 ingredients:
   - sesamfrø
 ---
+
 1. Kok nuddler
 
 2. Brun kjøttdeig
@@ -20,8 +21,6 @@ ingredients:
 5. Varm kinakål, ingefær og sesamfrø. Fres i 3 minutter til kinakålen blir myk. Kryddre med salt og steak and chili. På slutten vend inn ketchup manis.
 
 6. Bland alt sammen. Legg på vårløk og skvis saften av litt lime over
-
-
 
 1ss sesmafrø
 
