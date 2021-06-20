@@ -8,7 +8,14 @@ tags:
   - svin
   - middag
 ingredients:
-  - sesamfrø
+  - 1ss Sesamfrø
+  - 200g Eggenuddler
+  - Vårløk
+  - 1ss ingefær
+  - Halv kinakål
+  - Kjøttdeig svin
+  - Ketchup manis
+  - Lime
 tid: 20
 ---
 
