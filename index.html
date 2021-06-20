@@ -29,7 +29,7 @@ layout: layouts/base.njk
     </a>
     <div class="foodlist-subtitle">
       {% if food.data.tid %}
-      <p class="foodlist-item-time">{{ food.tid }}</p>
+      <p class="foodlist-item-time">{{ food.data.tid }} min</p>
       {% else %}
       <p class="foodlist-item-time">Ukjent tid</p>
       {% endif %} {% for tag in food.data.tags %} {%- if
