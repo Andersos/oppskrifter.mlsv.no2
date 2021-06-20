@@ -8,6 +8,7 @@ tags:
   - svin
 ingredients:
   - sesamfrø
+tid: 20
 ---
 
 1. Kok nuddler
