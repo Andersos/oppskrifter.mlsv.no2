@@ -26,15 +26,19 @@ main {
   padding: 2rem;
 }
 a {
-  text-decoration: none;
   color: var(--primary);
 }
 a:hover {
   color: var(--primarydark);
 }
+p {
+  font-size: 1.8rem;
+}
+h1,
 h2 {
   font-size: 2rem;
-  color: var(--primary);
+  color: var(--red);
+  margin-bottom: 2rem;
 }
 /* Nav */
 .nav {
@@ -47,6 +51,8 @@ h2 {
   display: inline-block;
   font-size: 2.4rem;
   margin-right: 1rem;
+}
+.nav-item a {
   text-decoration: none;
 }
 .nav-item-active {

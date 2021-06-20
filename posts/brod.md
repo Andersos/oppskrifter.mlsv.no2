@@ -10,10 +10,10 @@ date: 2018-05-24
 update: 2021-01-03T16:55:31.092Z
 thumbnail: /img/bread.jpg
 tags:
-  - another-tag
   - baking
 rating: 6
 ---
+
 Brød
 
 Oppskrift
