@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Kremet laks med spinat og soltørkede tomater
 date: 2021-08-22T12:19:10.105Z
 update: 2021-08-22T12:19:10.136Z
+thumbnail: /img/img-5315-1-.jpg
 tags:
   - laks
 ingredients:
