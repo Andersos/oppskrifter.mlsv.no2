@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Pasta og kylling i pizzaiolasaus med mozzarella
 date: 2021-08-19T09:12:28.575Z
 update: 2021-08-19T09:12:28.598Z
+thumbnail: /img/img_5943.png
 tags:
   - kylling
 ingredients:
