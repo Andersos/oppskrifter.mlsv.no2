@@ -1,8 +1,9 @@
 ---
 layout: layouts/post.njk
-title: HONNINGMARINERT KYLLING MED KREMEDE NUDLER
+title: Honningmarinert kylling
 date: 2021-11-04T09:21:57.189Z
 update: 2021-11-04T09:21:57.215Z
+thumbnail: /img/honning.jpg
 tags:
   - kylling
 ---
