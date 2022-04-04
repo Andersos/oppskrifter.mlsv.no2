@@ -6,6 +6,8 @@ update: 2021-08-22T12:19:10.136Z
 thumbnail: /img/img-5315-1-.jpg
 tags:
   - laks
+  - fisk
+  - middag
 ingredients:
   - laks
   - sjalottløk
@@ -15,6 +17,7 @@ ingredients:
   - spinat
   - parmesan
 ---
+
 1. Kok ris
 2. Krydre laksen med salt og pepper og varm på middels høy varme i 2 minutter på hver side og legg til side.
 3. Kutt sjalottløk og hvitløk og fres i pannen.

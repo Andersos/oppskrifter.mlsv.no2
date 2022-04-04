@@ -5,12 +5,10 @@ date: 2021-09-21T13:32:40.126Z
 update: 2021-09-21T13:32:40.151Z
 tags:
   - kylling
+  - middag
 ---
+
 Ing:
-
-
-
-
 
 | Kylling    |                                      |
 | ---------- | ------------------------------------ |
@@ -36,10 +34,6 @@ Ing:
 | 1 pk       | eggnudler                            |
 
 \---
-
-
-
-
 
 1. Kryddre kyllingen med paprikakrydder, salt og pepper.
 

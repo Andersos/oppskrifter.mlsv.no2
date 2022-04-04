@@ -18,6 +18,7 @@ ingredients:
   - Lime
 tid: 20
 ---
+
 1. Kok nuddler
 2. Brun kjøttdeig
 3. Kutt ingefær, kinakål og vårløk

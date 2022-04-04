@@ -6,6 +6,7 @@ update: 2021-08-19T08:27:26.368Z
 thumbnail: /img/img-5180.jpg
 tags:
   - kylling
+  - middag
   - alt-i-ett
 ingredients:
   - gul løk
@@ -18,6 +19,7 @@ ingredients:
 tid: 30
 rating: 6
 ---
+
 1. Kok ris
 2. Kutt paprika og løk. Varm i stekepanne med olje
 3. Tilsett kremfløte og kylling. La koke til kyllingen er ferdig

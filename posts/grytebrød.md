@@ -5,8 +5,8 @@ date: 2021-05-06T13:48:20.639Z
 update: 2021-05-06T13:48:20.648Z
 tags:
   - brød
+  - baking
 ---
-
 
 |            |                            |
 | ---------- | -------------------------- |
@@ -16,8 +16,6 @@ tags:
 | 1-1 1/2 ts | salt                       |
 | 1 klype    | sukker                     |
 | 5 dl       | vann , romtemperert        |
-
-
 
 Miks alt i en bolle, dekk til bollen og la heve i 12-20 timer.
 

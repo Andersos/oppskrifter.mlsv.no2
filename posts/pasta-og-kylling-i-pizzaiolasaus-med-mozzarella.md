@@ -6,6 +6,7 @@ update: 2021-08-19T09:12:28.598Z
 thumbnail: /img/img_5943.png
 tags:
   - kylling
+  - middag
 ingredients:
   - mozzarella
   - pinjekjerner
@@ -15,6 +16,7 @@ ingredients:
   - hvitløk
 tid: 20
 ---
+
 1. Kok pasta
 2. Kutt hvitløk og stek med litt olje i pannen
 3. Bland inn hermetiske tomater og oregano og kok i 2 min

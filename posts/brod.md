@@ -11,6 +11,7 @@ update: 2021-01-03T16:55:31.092Z
 thumbnail: /img/bread.jpg
 tags:
   - baking
+  - brød
 rating: 6
 ---
 
