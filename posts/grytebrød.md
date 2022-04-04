@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Grytebrød
 date: 2021-05-06T13:48:20.639Z
 update: 2021-05-06T13:48:20.648Z
+tags:
+  - brød
 ---
 
 
