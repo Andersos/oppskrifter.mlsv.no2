@@ -8,10 +8,17 @@ tags:
   - lam
   - middag
 ingredients:
-  - Lammekjøtt
-  - pitabrød
+  - Tomat
+  - Fetaost
+  - Pita
+  - Bladpersille
+  - Mais
+  - Agurk
 ---
+1. Sett på varmluftsovnen 190 grader
 
-1. Brun lammekjøttdeigen
+2. Brun lammekjøttdeigen
 
-2. Pitabrød 190 grader varmluft i kald ovn
+3. Bland Feta og bladpersille med stavmikser
+
+4. Kutt og gjør klart tomat, agurk og mais
