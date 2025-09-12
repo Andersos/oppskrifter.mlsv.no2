@@ -18,6 +18,6 @@
     "markdown-it-anchor": "^8.4.1"
   },
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^1.12.0"
   }
 }
